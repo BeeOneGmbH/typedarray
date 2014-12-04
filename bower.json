@@ -1,0 +1,34 @@
+{
+  "name": "typedarray",
+  "main": "index.js",
+  "version": "0.0.6",
+  "homepage": "https://github.com/BeeOneGmbH/typedarray",
+  "authors": [
+    "James Halliday <mail@substack.net>"
+  ],
+  "description": "TypedArray polyfill",
+  "keywords": [
+    "ArrayBuffer",
+    "DataView",
+    "Float32Array",
+    "Float64Array",
+    "Int8Array",
+    "Int16Array",
+    "Int32Array",
+    "Uint8Array",
+    "Uint8ClampedArray",
+    "Uint16Array",
+    "Uint32Array",
+    "typed",
+    "array",
+    "polyfill"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
